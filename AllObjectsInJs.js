@@ -1,4 +1,4 @@
-./**
+/**
  * Created by Shaan The Tiger :p
  **/
 
@@ -498,8 +498,10 @@ console.log(a);            ////[ 'Hasan', 'rumi', 'Nasif' ]
 */
 
 
-
-
+var a = 3;
+console.log(a);
+//Thankyou everyone
+//I love you all
 
 
 
